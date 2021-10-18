@@ -1,5 +1,5 @@
 # Parallel-Processing-Policy-Model
-the run code of analytical model for shuttle-based compact storage system under parallel processing policy
+# the run code of analytical model for shuttle-based compact storage system under parallel processing policy, is based on Python 3.x
 
 import numpy as np
 
